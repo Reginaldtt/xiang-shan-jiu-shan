@@ -4,7 +4,7 @@
 
 ## 1. 下载与安装
 
-1. 在手机浏览器打开 [最新版本](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/releases/latest)，或 [0.3.1 下载页](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/releases/tag/v0.3.1)。
+1. 在手机浏览器打开 [最新版本](https://github.com/Reginaldtt/xiang-shan-jiu-shan/releases/latest)，或 [0.3.1 下载页](https://github.com/Reginaldtt/xiang-shan-jiu-shan/releases/tag/v0.3.1)。
 2. 找到 **Assets（资源）**，下载 `xiang-shan-jiu-shan-0.3.1.apk`。`Source code` 压缩包不能安装，不要下载错。
 3. 下载完成后，从通知或“文件/我的文件 → 下载”打开 APK。
 4. 如果系统询问是否允许当前浏览器或文件管理器安装应用，请核实下载来源，再按手机提示允许此次安装；安装后可关闭该来源的安装权限。无需开启 USB 调试。

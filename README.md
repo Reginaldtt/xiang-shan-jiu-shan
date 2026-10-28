@@ -4,7 +4,7 @@
 
 由 **Reginaldtt** 主导开发，免费开放个人使用，希望你的反馈能帮助它变得更好。
 
-[下载 Android APK](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/releases/latest) · [安装与使用](INSTALL_AND_USE.md) · [已知问题](KNOWN_ISSUES.md) · [提交反馈](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/issues)
+[下载 Android APK](https://github.com/Reginaldtt/xiang-shan-jiu-shan/releases/latest) · [安装与使用](INSTALL_AND_USE.md) · [已知问题](KNOWN_ISSUES.md) · [提交反馈](https://github.com/Reginaldtt/xiang-shan-jiu-shan/issues)
 
 > 当前免费版为 **0.3.1**，适用于 **Android 11 及以上**。这份 APK 安装后仍显示旧名称“**照片整理助手**”，与这里的“想删就删”是同一个应用。当前没有 iPhone 版。
 
@@ -41,7 +41,7 @@
 
 ## 开始使用
 
-1. 在 [最新版下载页面](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/releases/latest) 找到 **Assets**，下载 `.apk` 文件。
+1. 在 [最新版下载页面](https://github.com/Reginaldtt/xiang-shan-jiu-shan/releases/latest) 找到 **Assets**，下载 `.apk` 文件。
 2. 用手机打开 APK，按系统提示安装。打开后应用名称是“照片整理助手”。
 3. 先用少量新拍照片或测试副本，按需授予媒体权限，再试保留、待删复核、移动和撤销。
 
@@ -64,7 +64,7 @@
 
 ## 欢迎反馈
 
-你可以在 [Issues](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/issues) 反馈问题或建议。请说明手机型号、Android 版本、应用版本和复现步骤。截图先遮盖人脸、证件、文件名、路径等私人信息，不要上传唯一原片、密码或完整相册。
+你可以在 [Issues](https://github.com/Reginaldtt/xiang-shan-jiu-shan/issues) 反馈问题或建议。请说明手机型号、Android 版本、应用版本和复现步骤。截图先遮盖人脸、证件、文件名、路径等私人信息，不要上传唯一原片、密码或完整相册。
 
 下载不要求关注、点赞、Star 或登录本应用。GitHub 提交 Issue 需要 GitHub 账号。
 

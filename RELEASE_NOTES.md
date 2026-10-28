@@ -10,11 +10,11 @@
 
 **已知问题：三星外屏横屏使用搜狗输入法搜索相册时，搜索键可能不能收起键盘。按一次系统返回键可收起并查看结果，或使用竖屏。该问题暂留后续修复。**
 
-- [安装与使用](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/blob/main/INSTALL_AND_USE.md)
-- [已知问题与验证范围](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/blob/main/KNOWN_ISSUES.md)
-- [隐私说明](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/blob/main/PRIVACY.md)
-- [使用许可](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/blob/main/LICENSE)
-- [反馈](https://github.com/vdisjok1-a11y/xiang-shan-jiu-shan/issues)
+- [安装与使用](https://github.com/Reginaldtt/xiang-shan-jiu-shan/blob/main/INSTALL_AND_USE.md)
+- [已知问题与验证范围](https://github.com/Reginaldtt/xiang-shan-jiu-shan/blob/main/KNOWN_ISSUES.md)
+- [隐私说明](https://github.com/Reginaldtt/xiang-shan-jiu-shan/blob/main/PRIVACY.md)
+- [使用许可](https://github.com/Reginaldtt/xiang-shan-jiu-shan/blob/main/LICENSE)
+- [反馈](https://github.com/Reginaldtt/xiang-shan-jiu-shan/issues)
 
 首次请用少量测试副本；重要原片先备份。更新时直接覆盖安装，不要先卸载或清除数据。
 
